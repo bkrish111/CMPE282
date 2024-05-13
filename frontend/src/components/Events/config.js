@@ -1,0 +1,12 @@
+export const HOST_EVENT = `http://54.172.200.204:3500/hostEvent`;
+export const myHostedEvents = `http://54.172.200.204:3500/home/myHostedEvents`;
+export const joinEvent = "http://54.172.200.204:3500/home/joinEvent";
+export const getWaitlist = `http://54.172.200.204:3500/home/getWaitlist/`;
+export const acceptReq = "http://54.172.200.204:3500/home/acceptReq";
+export const rejectReq = "http://54.172.200.204:3500/home/rejectReq";
+export const getSports = `http://54.172.200.204:3500/venues/getSports`;
+export const getVenues = "http://54.172.200.204:3500/venues/getVenues";
+export const myEvents = "http://54.172.200.204:3500/home/myEvents";
+export const getAllEvents = "http://54.172.200.204:3500/home/getAllEvents/";
+export const createEvent = "http://54.172.200.204:3500/venues/createEvent";
+export const leaveEvent = "http://54.172.200.204:3500/home/leaveEvent";
