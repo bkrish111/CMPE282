@@ -17,9 +17,7 @@ Students:
 [Sri Anudeep Velicheti](https://www.linkedin.com/in/sri-anudeep-velicheti/)
 
 # SportLink
-
-(https://github.com/bkrish111/CMPE282/assets/147780244/5edb3cf1-90d6-4631-863d-91b855ed8724)
-
+![Screenshot 2024-05-12 225413](https://github.com/bkrish111/CMPE282/assets/147780244/13f62bc6-a855-4192-8f71-60d947f7dda3)
 
 
 [SportLink](http://cloud-frontend-1659687937.us-east-1.elb.amazonaws.com/) is a platform designed to connect sports enthusiasts with available play areas. It simplifies the process of organizing sports activities by allowing users to find players, join games, and host events.
@@ -46,12 +44,16 @@ Students:
 
 ## AWS Configuration Screenshots:
 
+## Load Balancer:
 ![WhatsApp Image 2024-05-12 at 11 19 51 PM](https://github.com/bkrish111/CMPE282/assets/147780244/525594e6-a580-4f41-9515-deab3a99ce71)
 
+## ECS Clusters:
 ![WhatsApp Image 2024-05-12 at 11 16 46 PM](https://github.com/bkrish111/CMPE282/assets/147780244/0509f593-9a02-4e41-ac08-322a67ed276a)
 
+## AWS Codecommit:
 ![WhatsApp Image 2024-05-12 at 11 17 12 PM](https://github.com/bkrish111/CMPE282/assets/147780244/23c8dbf5-4134-4e60-ae88-1a77bf52a7a8)
 
+## AWS Codepipeline
 ![WhatsApp Image 2024-05-12 at 11 18 31 PM](https://github.com/bkrish111/CMPE282/assets/147780244/352a2cf8-e9d1-4a3e-8eae-7ad72a2a1cb3)
 
 
