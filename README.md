@@ -18,7 +18,7 @@ Students:
 
 # SportLink
 
-![Imgur](![image](https://github.com/bkrish111/CMPE282/assets/147780244/5edb3cf1-90d6-4631-863d-91b855ed8724)
+(![image](https://github.com/bkrish111/CMPE282/assets/147780244/5edb3cf1-90d6-4631-863d-91b855ed8724)
 
 
 
@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 *###2. Backend (Spring Boot) Setup:*
 
 a. Open Terminal in the slotService directory:
-```cd PlayPal/slotService```
+```cd slotService```
 
 b. Build and Run the Spring Boot Application:
 ```./mvnw spring-boot:run```
@@ -53,7 +53,7 @@ The backend server will start running on http://localhost:8080.
 
 *###3. Frontend (React + Node.js) Setup:*
 
-```cd PlayPal/frontend```
+```cd frontend```
 
 b. Install Frontend Dependencies:
 ```npm install```
@@ -67,7 +67,7 @@ The React frontend will start running on http://localhost:3000.
 
 a. Open Terminal in the usercreation directory within the backend folder:
 
-```cd PlayPal/backend/usercreation```
+```cd backend/usercreation```
 
 b. Install User Creation Dependencies:
 ```npm install```
@@ -79,7 +79,7 @@ c. Start the User Creation Server:
 
 a. Open Terminal in the eventcreation directory within the backend folder:
 
-```cd PlayPal/backend/eventcreation```
+```cd backend/eventcreation```
 
 b. Install Event Creation Dependencies:
 ```npm install```
@@ -92,7 +92,7 @@ c. Start the Event Creation Server:
 
 a. Open Terminal in the eventcreation directory within the backend folder:
 
-```cd PlayPal/backend/PlayAreaStatus```
+```cd backend/PlayAreaStatus```
 
 b. Install Play Area Status Dependencies:
 ```npm install```
@@ -103,7 +103,7 @@ c. Start the Play Area Status Server:
 *### ML Service Setup:*
 
 a. Open Terminal in the MLservice directory:
-```cd PlayPal/backend/mlService```
+```cd backend/mlService```
 
 b. Start the ML Service with Uvicorn:
 Use the following command to start the ML service using Uvicorn:
